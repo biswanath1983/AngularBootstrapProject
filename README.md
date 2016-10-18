@@ -1,1 +1,1 @@
-# AngularBootstrapProject
+# AngularWebpackBootstrapES6
